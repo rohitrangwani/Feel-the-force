@@ -3,7 +3,7 @@
   "url": "https://api.pushbullet.com/v2/pushes",
   "requestType": "POST",
   "headers": {
-    "Authorization": "Bearer o.fjVKlGTBsyF9rOJbt8TCnwuY7zbF9JXM",
+    "Authorization": "Bearer youraccesstoken",
     "Content-Type": "application/json"
   },
   "json": {
